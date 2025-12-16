@@ -81,8 +81,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish95-bg&show_icons=true&locale=en&layout=compact" alt="krish95-bg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anirudha-11ag&show_icons=true&locale=en&layout=compact" alt="Anirudha-11a" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish95-bg&show_icons=true&locale=en" alt="krish95-bg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudha-11a&show_icons=true&locale=en" alt="krish95-bg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krish95-bg&" alt="krish95-bg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudha-11a&" alt="Anirudha-11a" /></p>
